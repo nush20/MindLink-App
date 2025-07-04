@@ -1,29 +1,29 @@
-# 🧠 MindLink
+#  MindLink
 
 **MindLink** is a beginner-friendly iOS application built using SwiftUI to support individuals with Alzheimer's and dementia. The app focuses on daily assistance like routine tracking, medication reminders, and emergency support — all in a clean, accessible interface.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🟦 **Onboarding Flow**  
+-  **Onboarding Flow**  
   Simple welcome screens that guide users and caregivers through the app setup.
 
-- 📅 **Routine Tracker**  
+-  **Routine Tracker**  
   Lets users add and view daily routines to maintain structure and reduce confusion.
 
-- 💊 **Medication Tracker**  
+-  **Medication Tracker**  
   Helps record and view medications — including name, time, and dosage.
 
-- 📞 **Emergency Contact List**  
+-  **Emergency Contact List**  
   A dedicated section to store emergency contacts with their relationship and phone numbers.
 
-- 🆘 **Emergency Info Screen**  
+-  **Emergency Info Screen**  
   Clearly displays critical personal info for first responders or caregivers.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Swift  
 - **Framework:** SwiftUI  
@@ -32,7 +32,7 @@
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Onboarding | Home | Routine | Medication | Emergency |
 |-----------|------|---------|------------|-----------|
@@ -40,7 +40,7 @@
 | ![Onboarding2](screenshots/6.png) | ![Routine Detail](screenshots/7.png) | ![Emergency Detail](screenshots/8.png) | ![Help Screen](screenshots/9.png) | ![Thank You](screenshots/10.png) |
 
 
-## 🧑‍💻 How to Run
+##  How to Run
 
 1. Clone the repository:
    ```bash
