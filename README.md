@@ -32,13 +32,6 @@
 
 ---
 
-## Screenshots
-
-| Onboarding | Home | Routine | Medication | Emergency |
-|-----------|------|---------|------------|-----------|
-| ![Onboarding1](screenshots/1.png) | ![Home](screenshots/2.png) | ![Routine](screenshots/3.png) | ![Medication](screenshots/4.png) | ![Emergency](screenshots/5.png) |
-| ![Onboarding2](screenshots/6.png) | ![Routine Detail](screenshots/7.png) | ![Emergency Detail](screenshots/8.png) | ![Help Screen](screenshots/9.png) | ![Thank You](screenshots/10.png) |
-
 
 ##  How to Run
 
