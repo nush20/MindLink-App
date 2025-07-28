@@ -1,6 +1,6 @@
 #  MindLink
 
-**MindLink** is a beginner-friendly iOS application built using SwiftUI to support individuals with Alzheimer's and dementia. The app focuses on daily assistance like routine tracking, medication reminders, and emergency support — all in a clean, accessible interface.
+**MindLink** is an iOS application built using SwiftUI to support individuals with Alzheimer's and dementia. The app focuses on daily assistance like routine tracking, medication reminders, and emergency support — all in a clean, accessible interface.
 
 ---
 
@@ -39,6 +39,6 @@
    ```bash
    git clone https://github.com/yourusername/mindlink.git
 2. Open MindLink.xcodeproj or .xcodeworkspace in Xcode.
-3.Build and run the app using an iPhone simulator or real device.
+3. Build and run the app using an iPhone simulator or real device.
 
 
